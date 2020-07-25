@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MMDC</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <div class="joinml">JOIN OUR MAILING LIST</div>
+  <body>
+    <div class="links">
+      <div class="logo">MMDC</div>
+      <div class="nav">
+        <div class="one">Home</div>
+        <div class="two">About</div>
+        <div class="three">Events</div>
+        <div class="four">Contact</div>
+        <div class="five">Donate</div>
+      </div>
+    </div>
+
+    <div class="fyapic">
+      <img src="./images/homeimage.jpg" alt="fya image" />
+    </div>
+  </body>
+  <div class="copyright">All Rights Reserved</div>
+</html>
